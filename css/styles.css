@@ -44,3 +44,18 @@ body {
   background: white;
   padding: 1em;
 }
+#footer {
+  background: green;
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: .2em;
+}
+
+#footer p {
+  font-weight: normal;
+  font-size: 1em;
+  text-align: center;
+
+}
